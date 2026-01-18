@@ -2,17 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Saad+👋;CS+Student+@+Al-Balqa+University;Building+Cool+Web+Projects+🚀;Always+Learning+New+Tech+💡" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/SAADX25">
-    <img src="https://img.shields.io/github/followers/SAADX25?label=Followers&style=social" alt="GitHub Badge"/>
-  </a>
-  <a href="https://github.com/SAADX25?tab=repositories">
-    <img src="https://img.shields.io/github/stars/SAADX25?style=social" alt="Stars Badge"/>
-  </a>
-</div>
-
-<br/>
-
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
