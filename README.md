@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Saad+👋;CS+Student+@+Al-Balqa+University;Building+Tv.Teamx+🚀;Always+Learning+New+Tech+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Saad+👋;CS+Student+@+Al-Balqa+University;Building+Cool+Web+Projects+🚀;Always+Learning+New+Tech+💡" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,17 +24,17 @@
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,bootstrap,git,github,vscode,linux,mysql,mongodb&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,git,github,vscode&theme=dark" alt="My Skills" />
 </div>
 
 <br/>
 
-<h3 align="center">🔥 Featured Project: <a href="https://github.com/SAADX25/Tv.teamx">Tv.Teamx</a></h3>
+<h3 align="center">🔥 Featured Project: <a href="https://github.com/SAADX25/PC-Master-Store">PC-Master-Store</a></h3>
 <div align="center">
-  <a href="https://github.com/SAADX25/Tv.teamx">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAADX25&repo=Tv.teamx&theme=tokyonight&hide_border=true" alt="Tv.Teamx Project" />
+  <a href="https://github.com/SAADX25/PC-Master-Store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAADX25&repo=PC-Master-Store&theme=tokyonight&hide_border=true" alt="PC-Master-Store Project" />
   </a>
-  <p><i>A real-time chat application for developers built with Node.js & Socket.io (Discord Clone).</i></p>
+  <p><i>A front-end e-commerce interface for PC hardware, designed with HTML & CSS.</i></p>
 </div>
 
 <br/>
