@@ -40,16 +40,18 @@
 <br/>
 
 <h3 align="center">📊 GitHub Stats</h3>
-
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=SAADX25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAADX25&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SAADX25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAADX25&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAADX25&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAADX25&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
