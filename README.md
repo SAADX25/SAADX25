@@ -47,7 +47,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAADX25&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=SAADX25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
