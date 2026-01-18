@@ -14,7 +14,7 @@
 
 ### 🚀 My Projects
 **Tv.teamx** `[ Active ]` <br>
-> A real-time chat application for developers built with Node.js & Socket.io. Aiming to be the next Discord.
+> A real-time chat application for developers built with Node.js & Socket.io. Aiming to be the next .
 
 **PC-Master-Store** `[ Finished ]` <br>
 > An HTML project showcasing a store interface.
