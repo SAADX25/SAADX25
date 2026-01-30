@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Computer+Science+Student+%40+Al-Balqa+University;Node.js+%7C+Socket.io+Developer;Building+Real-Time+Apps+%26+AI+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Computer+Science+Student+%40+Al-Balqa+University;Node.js+%7C+Socket.io+Developer;Building+Real-Time+Apps+%26+AI+Projects" />
 
-  <br><br>
+<br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=SAADX25&label=Profile%20Views&color=2F81F7&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=SAADX25&label=Profile%20Views&color=2F81F7&style=flat" />
 
 </div>
 
@@ -13,12 +13,12 @@
 ## 👨‍💻 About Me
 
 Hi 👋 I'm **Saad**, a Computer Science student from **Jordan 🇯🇴**  
-I enjoy building **real-time web applications**, experimenting with **AI APIs**, and turning ideas into working products.
+I enjoy building **real-time web applications**, working with **Node.js**, and integrating **AI APIs** into modern web apps.
 
 - 🎓 CS Student @ Al-Balqa University  
-- ⚡ Focused on **Node.js & Socket.io**  
-- 🤖 Interested in **AI integrations (Gemini / LLMs)**  
-- 🚀 Currently building scalable web apps  
+- ⚡ Backend & Real-Time Apps (Node.js, Socket.io)  
+- 🤖 AI Integrations (Gemini, APIs)  
+- 🚀 Always learning & building  
 
 ---
 
@@ -36,24 +36,27 @@ I enjoy building **real-time web applications**, experimenting with **AI APIs**,
 
 ### 🧰 Tools & AI
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
+| Project | Description | Tech |
 |------|------------|------|
-| **📺 tv-teamx** | Real-time Discord-like web app with voice & text channels | Node.js · Socket.io · WebRTC |
-| **💻 PC-Master-Store** | PC e-commerce platform enhanced with Gemini AI | HTML · CSS · JS · Gemini API |
+| **📺 tv-teamx** | Real-time Discord-like web app with text & voice channels | Node.js · Socket.io · WebRTC |
+| **💻 PC-Master-Store** | PC hardware store enhanced with Gemini AI | HTML · CSS · JS · Gemini API |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAADX25&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAADX25&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=SAADX25&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAADX25&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+
 </div>
 
 ---
@@ -61,4 +64,4 @@ I enjoy building **real-time web applications**, experimenting with **AI APIs**,
 ## 🤝 Connect With Me
 
 - 💬 Open to collaboration & internships  
-- ⭐ Don’t forget to star projects you like  
+- ⭐ If you like my work, consider starring my repositories  
