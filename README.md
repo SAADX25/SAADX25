@@ -4,8 +4,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SAADX25&label=Profile%20Views&color=2F81F7&style=flat" />
-
 </div>
 
 ---
@@ -50,9 +48,6 @@ I focus on building **real-time web applications**, backend systems with **Node.
 ---
 
 ## 📊 GitHub Activity (Stable Version)
-
-> ✅ هذا القسم **لا يستخدم Vercel ولا صور ديناميكية**  
-> ✅ يعمل دائماً بدون 503 أو صور مكسورة
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAADX25&theme=tokyonight" />
