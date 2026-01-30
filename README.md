@@ -12,13 +12,13 @@
 
 ## 👨‍💻 About Me
 
-Hi 👋 I'm **Saad**, a Computer Science student from **Jordan 🇯🇴**  
-I enjoy building **real-time web applications**, working with **Node.js**, and integrating **AI APIs** into modern web apps.
+Hi 👋 I'm **Saad**, a Computer Science student from **Jordan 🇯🇴**.  
+I focus on building **real-time web applications**, backend systems with **Node.js**, and integrating **AI APIs** into modern projects.
 
 - 🎓 CS Student @ Al-Balqa University  
-- ⚡ Backend & Real-Time Apps (Node.js, Socket.io)  
+- ⚡ Node.js & Socket.io (Real-Time Apps)  
 - 🤖 AI Integrations (Gemini, APIs)  
-- 🚀 Always learning & building  
+- 🚀 Continuous learner & builder  
 
 ---
 
@@ -44,24 +44,34 @@ I enjoy building **real-time web applications**, working with **Node.js**, and i
 
 | Project | Description | Tech |
 |------|------------|------|
-| **📺 tv-teamx** | Real-time Discord-like web app with text & voice channels | Node.js · Socket.io · WebRTC |
+| **📺 tv-teamx** | Real-time Discord-like web app with voice & text channels | Node.js · Socket.io · WebRTC |
 | **💻 PC-Master-Store** | PC hardware store enhanced with Gemini AI | HTML · CSS · JS · Gemini API |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity (Stable Version)
 
-<div align="center">
+> ✅ هذا القسم **لا يستخدم Vercel ولا صور ديناميكية**  
+> ✅ يعمل دائماً بدون 503 أو صور مكسورة
 
-<img src="https://github-readme-stats.vercel.app/api?username=SAADX25&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAADX25&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAADX25&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAADX25&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAADX25&theme=tokyonight" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SAADX25&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SAADX25&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
 - 💬 Open to collaboration & internships  
-- ⭐ If you like my work, consider starring my repositories  
+- ⭐ Star repositories you like  
+- 🚀 Let’s build something cool  
