@@ -42,7 +42,6 @@ I focus on building **real-time web applications**, backend systems with **Node.
 
 | Project | Description | Tech |
 |------|------------|------|
-| **📺 tv-teamx** | Real-time Discord-like web app with voice & text channels | Node.js · Socket.io · WebRTC |
 | **💻 PC-Master-Store** | PC hardware store enhanced with Gemini AI | HTML · CSS · JS · Gemini API |
 
 ---
