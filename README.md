@@ -44,20 +44,6 @@ I specialize in creating high-performance Windows applications and system optimi
 
 ---
 
-### 🧰 Tech Stack
-* **Languages:** C#, .NET Framework, Markdown
-* **Tools:** Visual Studio, Git, GitHub Actions, Windows API
-* **Specialties:** OS Optimization, Installer Logic, UI/UX for Desktop apps
-
----
-
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://discord.gg/ct5Tq3p5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Cortex Discord" height="30" width="40" /></a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
 ---
