@@ -35,11 +35,6 @@ I specialize in creating high-performance Windows applications and system optimi
 <p align="center">
   <img src="https://i.postimg.cc/PxgGFqG7/cortex.jpg" alt="CortexDNA Logo" width="200"/>
 </p>
-
-**CortexDNA** is a professional toolkit built with C# and .NET to enhance system stability and performance.
-
-* **Latest Version:** v1.2.1
-* **Key Tech:** C#, .NET, GitHub API for Auto-updates.
 * **Discord Community:** [Join the Community](https://discord.gg/ct5Tq3p5)
 
 ---
