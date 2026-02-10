@@ -31,11 +31,14 @@ I am a passionate developer focusing on building **high-performance desktop appl
 </p>
 
 <p align="center">
-  <h3>🚀 تفضلوا بزيارة سيرفرنا الخاص على ديسكورد</h3>
   <a href="https://discord.gg/ct5Tq3p5">
-    <img src="https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
+    <img src="https://i.postimg.cc/PxgGFqG7/cortex.jpg" alt="Join Cortex S Discord" width="500">
   </a>
-</p>>
+  <br>
+  <b>🚀 Welcome to the Cortex S Community!</b>
+  <br>
+  <i>Join our Discord server to get the latest updates, support, and connect with other developers.</i>
+</p>
 ---
 
 ## 🛠️ Tech Stack
