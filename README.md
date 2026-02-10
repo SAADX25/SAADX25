@@ -23,7 +23,10 @@ I am a passionate developer focusing on building **high-performance desktop appl
 - ⚡ **Web Dev:** Node.js, Socket.io, React/Vite  
 - 🤖 **AI Integrations:** Gemini API & Smart Tools  
 - 🏆 **Mindset:** Thrives on fierce challenges & competitive environments
-
+---
+<a href="[https://discord.gg/EMMSrnqN](https://discord.gg/ct5Tq3p5)">
+   <img src="https://i.postimg.cc/jjbZZPJD/cortex.jpg" width="200" alt="Join Cortex S Discord">
+</a>
 ---
 
 ## 🛠️ Tech Stack
