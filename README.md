@@ -30,11 +30,6 @@ My Featured Project: CortexDNA
   <img src="https://i.postimg.cc/PxgGFqG7/cortex.jpg" alt="CortexDNA Logo" width="200"/>
 </p>
 * **Discord Community:** (https://discord.gg/ct5Tq3p5)
-
----
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
 ---
 
 ## 🛠️ Tech Stack
