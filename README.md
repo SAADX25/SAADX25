@@ -42,9 +42,9 @@ I focus on building **real-time web applications**, backend systems with **Node.
 
 | Project | Description | Tech |
 |------|------------|------|
-| 🚀 Cortex-DNA|Advanced system management & optimization tool for Windows,C# · WPF · .NET
-| 🎨 Cortex-Icons,Professional| high-resolution icon library for desktop applications,Design · PNG · ICO
-|📥 Cortex-DL,Powerful|video and music download engine for social media platforms,Electron · TypeScript · Vite
+| 🚀 Cortex-DNA|Advanced system management & optimization tool for|Windows,C# · WPF · .NET |
+| 🎨 Cortex-Icons,Professional| high-resolution icon library for desktop applications,Design | PNG · ICO|
+|📥 Cortex-DL,Powerful|video and music download engine for social media platforms,Electron | TypeScript · Vite|
 |💻 PC-Master-Store** | PC hardware store enhanced with Gemini AI | HTML · CSS · JS · Gemini API |
 اسم المشروع,الوصف,التقنيات المستخدمة
 
