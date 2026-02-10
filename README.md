@@ -24,18 +24,12 @@ I am a passionate developer focusing on building **high-performance desktop appl
 - 🤖 **AI Integrations:** Gemini API & Smart Tools  
 - 🏆 **Mindset:** Thrives on fierce challenges & competitive environments
 ---
-# Hi there, I'm [Your Name/Username] 👋
 
-### 🚀 Software Developer | Windows Optimization Expert
-I specialize in creating high-performance Windows applications and system optimization tools. Currently focusing on **CortexDNA**, a utility designed to streamline the Windows experience.
-
----
-
-### 🛠 My Featured Project: CortexDNA
+My Featured Project: CortexDNA
 <p align="center">
   <img src="https://i.postimg.cc/PxgGFqG7/cortex.jpg" alt="CortexDNA Logo" width="200"/>
 </p>
-* **Discord Community:** [Join the Community](https://discord.gg/ct5Tq3p5)
+* **Discord Community:** (https://discord.gg/ct5Tq3p5)
 
 ---
 
