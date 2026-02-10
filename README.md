@@ -22,6 +22,7 @@ I am a passionate developer focusing on building **high-performance desktop appl
 - 🎓 CS Student @ **Al-Balqa Applied University** - 💻 **Desktop Dev:** C# (WPF), Electron, TypeScript  
 - ⚡ **Web Dev:** Node.js, Socket.io, React/Vite  
 - 🤖 **AI Integrations:** Gemini API & Smart Tools  
+- 🏆 **Mindset:** Thrives on fierce challenges & competitive environments
 
 ---
 
