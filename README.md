@@ -24,15 +24,42 @@ I am a passionate developer focusing on building **high-performance desktop appl
 - 🤖 **AI Integrations:** Gemini API & Smart Tools  
 - 🏆 **Mindset:** Thrives on fierce challenges & competitive environments
 ---
+# Hi there, I'm [Your Name/Username] 👋
+
+### 🚀 Software Developer | Windows Optimization Expert
+I specialize in creating high-performance Windows applications and system optimization tools. Currently focusing on **CortexDNA**, a utility designed to streamline the Windows experience.
+
+---
+
+### 🛠 My Featured Project: CortexDNA
 <p align="center">
-  <a href="https://postimg.cc/S2ftnkxL">
-    <img src="https://i.postimg.cc/PxgGFqG7/cortex.jpg" alt="Cortex Logo" width="500">
-  </a>
-  <br>
-  <b>🚀 Welcome to the Cortex DNA Project</b>
-  <br>
-  <i>Exploring innovation and development. Click the image above to visit our official page!</i>
+  <img src="https://i.postimg.cc/PxgGFqG7/cortex.jpg" alt="CortexDNA Logo" width="200"/>
 </p>
+
+**CortexDNA** is a professional toolkit built with C# and .NET to enhance system stability and performance.
+
+* **Latest Version:** v1.2.1
+* **Key Tech:** C#, .NET, GitHub API for Auto-updates.
+* **Discord Community:** [Join the Community](https://discord.gg/ct5Tq3p5)
+
+---
+
+### 🧰 Tech Stack
+* **Languages:** C#, .NET Framework, Markdown
+* **Tools:** Visual Studio, Git, GitHub Actions, Windows API
+* **Specialties:** OS Optimization, Installer Logic, UI/UX for Desktop apps
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://discord.gg/ct5Tq3p5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Cortex Discord" height="30" width="40" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
 ---
 
 ## 🛠️ Tech Stack
