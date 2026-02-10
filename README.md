@@ -25,19 +25,13 @@ I am a passionate developer focusing on building **high-performance desktop appl
 - 🏆 **Mindset:** Thrives on fierce challenges & competitive environments
 ---
 <p align="center">
-  <a href="https://discord.gg/ct5Tq3p5">
-    <img src="https://i.postimg.cc/yNjwBTMx/Gemini-Generated-Image-99s71i99s71i99s7.png" alt="Join Cortex S Discord" width="600">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/ct5Tq3p5">
-    <img src="https://i.postimg.cc/PxgGFqG7/cortex.jpg" alt="Join Cortex S Discord" width="500">
+  <a href="https://postimg.cc/S2ftnkxL">
+    <img src="https://i.postimg.cc/PxgGFqG7/cortex.jpg" alt="Cortex Logo" width="500">
   </a>
   <br>
-  <b>🚀 Welcome to the Cortex S Community!</b>
+  <b>🚀 Welcome to the Cortex DNA Project</b>
   <br>
-  <i>Join our Discord server to get the latest updates, support, and connect with other developers.</i>
+  <i>Exploring innovation and development. Click the image above to visit our official page!</i>
 </p>
 ---
 
