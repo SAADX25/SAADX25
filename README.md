@@ -54,7 +54,7 @@ My Featured Project: CortexDNA
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack | Stars |
 | :--- | :--- | :--- | :---: |
