@@ -24,12 +24,11 @@ I am a passionate developer focusing on building **high-performance desktop appl
 - 🤖 **AI Integrations:** Gemini API & Smart Tools  
 - 🏆 **Mindset:** Thrives on fierce challenges & competitive environments
 ---
-
-My Featured Project: CortexDNA
-<p align="center">
-  <img src="https://i.postimg.cc/PxgGFqG7/cortex.jpg" alt="CortexDNA Logo" width="200"/>
-</p>
-* **Discord Community:** (https://discord.gg/ct5Tq3p5)
+//My Featured Project: CortexDNA
+//<p align="center">
+//  <img src="https://i.postimg.cc/PxgGFqG7/cortex.jpg" alt="CortexDNA Logo" width="200"/>
+//</p>
+//* **Discord Community:** (https://discord.gg/ct5Tq3p5)   
 ---
 
 ## 🛠️ Tech Stack
