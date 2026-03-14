@@ -4,10 +4,6 @@
 
 <br>
 
-<a href="https://github.com/SAADX25">
-  <img src="https://img.shields.io/github/followers/SAADX25?label=Follow&style=social" alt="GitHub Followers" />
-</a>
-
 <br><br>
 
 </div>
