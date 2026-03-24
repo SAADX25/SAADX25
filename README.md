@@ -61,11 +61,6 @@ I am a passionate developer focusing on building **high-performance desktop appl
 </p>
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAADX25&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAADX25&theme=tokyonight" />
-</div>
-
-<div align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SAADX25&theme=tokyonight" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SAADX25&theme=tokyonight" />
 </div>
