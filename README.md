@@ -70,6 +70,18 @@ I am a passionate developer focusing on building **high-performance desktop appl
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SAADX25&theme=tokyonight" />
 </div>
 
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAADX25&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Saad's GitHub Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAADX25&theme=dark&hide_border=true&layout=compact" alt="Most Used Languages" />
+</div>
+
 ---
 
 ## 🤝 Connect With Me
