@@ -12,13 +12,17 @@
 
 ## 👨‍💻 About Me
 
-Hi 👋 I'm **Saad**, a Computer Science student from **Jordan 🇯🇴**.  
-I am a passionate developer focusing on building **high-performance desktop applications**, **real-time web systems**, and integrating **AI** into modern software solutions.
+Hi 👋 My name is Saad, i am a computer science student from Jordan 🇯🇴.
 
-- 🎓 CS Student @ **Al-Balqa Applied University** - 💻 **Desktop Dev:** C# (WPF), Electron, TypeScript  
-- ⚡ **Web Dev:** Node.js, Socket.io, React/Vite  
-- 🤖 **AI Integrations:** Gemini API & Smart Tools  
-- 🏆 **Mindset:** Thrives on fierce challenges & competitive environments
+As a developer, I am versed in high-performance desktop applications, real-time web systems and AI-oriented software solutions.
+
+👨🏫 CS Student @ Al-Balqa Applied University - 👨💻 Desktop Dev | C# (WPF) - Electron, TypeScript
+
+⚡ Web Dev: Node. js, Socket. io, React/Vite
+
+🤖 AI Integrations: Gemini API & Smart Tools
+
+🏆 Mindset: Preferences are for challenges and competitive atmospheres
 ---
 
 ## 🛠️ Tech Stack
