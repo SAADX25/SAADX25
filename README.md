@@ -60,19 +60,13 @@ As a developer, I am versed in high-performance desktop applications, real-time 
 
 ##                                              GitHub Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAADX25&theme=tokyonight" />
-</p>
-
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SAADX25&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SAADX25&theme=tokyonight" />
-</div>
-
-## GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats-puce-seven-38.vercel.app/api?username=SAADX25&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Saad's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-puce-seven-38.vercel.app/api/top-langs/?username=SAADX25&theme=dark&hide_border=true&layout=compact" alt="Most Used Languages" />
 </div>
 
 <br>
