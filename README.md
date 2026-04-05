@@ -62,13 +62,12 @@ As a developer, I am versed in high-performance desktop applications, real-time 
 
 
 <div align="center">
-  <img src="https://github-readme-stats-puce-seven-38.vercel.app/api?username=SAADX25&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Saad's GitHub Stats" />
-</div>
+  <img src="https://github-readme-stats-iota-seven-40.vercel.app/api?username=SAADX25&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Saad GitHub Stats" />
+  
+  <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats-puce-seven-38.vercel.app/api/top-langs/?username=SAADX25&theme=dark&hide_border=true&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-iota-seven-40.vercel.app/api/top-langs/?username=SAADX25&layout=compact&theme=dark&hide_border=true" alt="Saad Top Langs" />
 </div>
-
 ---
 
 ## 🤝 Connect With Me
