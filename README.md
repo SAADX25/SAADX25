@@ -72,13 +72,13 @@ As a developer, I am versed in high-performance desktop applications, real-time 
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAADX25&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Saad's GitHub Stats" />
+  <img src="https://github-readme-stats-puce-seven-38.vercel.app/api?username=SAADX25&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Saad's GitHub Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAADX25&theme=dark&hide_border=true&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-puce-seven-38.vercel.app/api/top-langs/?username=SAADX25&theme=dark&hide_border=true&layout=compact" alt="Most Used Languages" />
 </div>
 
 ---
