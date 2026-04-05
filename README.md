@@ -69,11 +69,3 @@ As a developer, I am versed in high-performance desktop applications, real-time 
   <img src="https://github-readme-stats-iota-seven-40.vercel.app/api/top-langs/?username=SAADX25&layout=compact&theme=dark&hide_border=true" alt="Saad Top Langs" />
 </div>
 ---
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://github.com/SAADX25">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  </div>
