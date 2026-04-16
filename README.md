@@ -16,7 +16,7 @@ Hi 👋 My name is Saad, i am a computer science student from Jordan 🇯🇴.
 
 As a developer, I am versed in high-performance desktop applications, real-time web systems and AI-oriented software solutions.
 
-👨🏫 CS Student @ Al-Balqa Applied University - 👨💻 Desktop Dev | C# (WPF) - Electron, TypeScript
+👨💻 Desktop Dev | C# (WPF) - Electron, TypeScript
 
 ⚡ Web Dev: Node. js, Socket. io, React/Vite
 
