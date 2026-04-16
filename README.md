@@ -62,7 +62,7 @@ As a developer, I am versed in high-performance desktop applications, real-time 
 
 
 <div align="center">
-  <img src="https://github-readme-stats-iota-seven-40.vercel.app/api?username=SAADX25&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Saad GitHub Stats" />
+  <img src="https://github-readme-stats-iota-seven-40.vercel.app/api?username=SAADX25&show_icons=true&theme=cobalt&hide_border=true&count_private=true" alt="Saad GitHub Stats" />
   
   <br/>
 
