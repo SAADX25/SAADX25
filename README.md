@@ -10,7 +10,7 @@
 
 ---
 
-<h1 align="center">👨‍💻 About Me</h1>
+<h1 align="center">🧑‍💻 About Me</h1>
 
 <h3 align="center">Computer Science Student from Jordan 🇯🇴</h3>
 
@@ -18,13 +18,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Desktop+Developer;Web+Developer;AI+Tools+Builder;Clean+UI+%26+Real-World+Projects" alt="Typing SVG" />
 </p>
 
-```diff
-+ Desktop Development: C#, .NET, WPF, Electron
-+ Web Development: React, Vite, Node.js, TypeScript
-+ AI Tools: Gemini API and smart automation workflows
-+ UI Focus: Clean layouts, modern design, and usability
-+ Goal: Keep learning by building real projects
-```
+<div align="center">
+
+🔹 <b>Desktop Development:</b> C#, .NET, WPF, Electron  
+🔹 <b>Web Development:</b> React, Vite, Node.js, TypeScript  
+🔹 <b>AI Tools:</b> Gemini API and smart automation workflows  
+🔹 <b>UI Focus:</b> Clean layouts, modern design, and usability  
+🔹 <b>Goal:</b> Keep learning by building real projects  
+
+</div>
 
 ---
 
