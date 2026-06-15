@@ -6,8 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=850&lines=Building+modern+desktop+apps+with+C%23+and+.NET;Developing+clean+web+apps+with+React+and+Node.js;Creating+AI-powered+tools+and+developer+utilities;Focused+on+clean+UI%2C+performance%2C+and+real-world+projects;Computer+Science+Student+from+Jordan+%F0%9F%87%AF%F0%9F%87%B4" alt="Typing SVG" />
 
-<br/><br/>
-
+</div>
 
 ---
 
@@ -15,42 +14,46 @@
 
 Hi 👋, I'm **Saad Haddad**, a Computer Science student from Jordan 🇯🇴.
 
-I enjoy building practical software projects that combine **desktop applications**, **modern web development**, and **AI-powered tools**.
+I enjoy building practical software projects that combine **desktop applications**, **modern web development**, and **AI-powered tools**.  
 My focus is on creating clean, useful, and real-world applications with a strong attention to UI, performance, and user experience.
 
-* 💻 Desktop Development: C#, .NET, WPF, Electron
-* 🌐 Web Development: React, Vite, Node.js, TypeScript
-* 🤖 AI Tools: Gemini API and smart automation workflows
-* 🎨 UI Focus: Clean layouts, modern design, and usability
-* 🚀 Goal: Keep learning by building real projects
+- 💻 **Desktop Development:** C#, .NET, WPF, Electron
+- 🌐 **Web Development:** React, Vite, Node.js, TypeScript
+- 🤖 **AI Tools:** Gemini API and smart automation workflows
+- 🎨 **UI Focus:** Clean layouts, modern design, and usability
+- 🚀 **Goal:** Keep learning by building real projects
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 💻 Languages & Frameworks
 
-![C#](https://img.shields.io/badge/C%23-1e40af?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-2563eb?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0ea5e9?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-16a34a?style=for-the-badge\&logo=node.js\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1e40af?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-2563eb?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0ea5e9?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-16a34a?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🎨 Frontend & UI
 
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge\&logo=react\&logoColor=38bdf8)
-![Vite](https://img.shields.io/badge/Vite-1e3a8a?style=for-the-badge\&logo=vite\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2563eb?style=for-the-badge\&logo=css3\&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-1d4ed8?style=for-the-badge\&logo=windows\&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-0f172a?style=for-the-badge\&logo=electron\&logoColor=38bdf8)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=38bdf8)
+![Vite](https://img.shields.io/badge/Vite-1e3a8a?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2563eb?style=for-the-badge&logo=css3&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-1d4ed8?style=for-the-badge&logo=windows&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-0f172a?style=for-the-badge&logo=electron&logoColor=38bdf8)
 
 ### ⚙️ Tools & AI
 
-![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge\&logo=github\&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-0f172a?style=for-the-badge\&logo=socket.io\&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-2563eb?style=for-the-badge\&logo=googlebard\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-0f172a?style=for-the-badge&logo=socket.io&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-2563eb?style=for-the-badge&logo=googlebard&logoColor=white)
+
+</div>
 
 ---
 
