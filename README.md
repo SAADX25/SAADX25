@@ -8,19 +8,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/SAADX25">
-  <img src="https://img.shields.io/badge/GitHub-SAADX25-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:haddad.hgcr@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-2563eb?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=SAADX25&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:1e40af&height=2&section=footer" />
-
-</div>
 
 ---
 
