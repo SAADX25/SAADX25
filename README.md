@@ -17,11 +17,11 @@ Hi 👋, I'm **Saad Haddad**, a Computer Science student from Jordan 🇯🇴.
 I enjoy building practical software projects that combine **desktop applications**, **modern web development**, and **AI-powered tools**.  
 My focus is on creating clean, useful, and real-world applications with a strong attention to UI, performance, and user experience.
 
-- 💻 **Desktop Development:** C#, .NET, WPF, Electron
-- 🌐 **Web Development:** React, Vite, Node.js, TypeScript
-- 🤖 **AI Tools:** Gemini API and smart automation workflows
-- 🎨 **UI Focus:** Clean layouts, modern design, and usability
-- 🚀 **Goal:** Keep learning by building real projects
+💻 **Desktop Development:** C#, .NET, WPF, Electron
+🌐 **Web Development:** React, Vite, Node.js, TypeScript
+🤖 **AI Tools:** Gemini API and smart automation workflows
+🎨 **UI Focus:** Clean layouts, modern design, and usability
+🚀 **Goal:** Keep learning by building real projects
 
 ---
 
