@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Computer+Science+Student+%40+Al-Balqa+University;Full+Stack+%26+Software+Developer;Building+Real-Time+Apps+%26+System+Tools" />
+# Saad Haddad
 
-<br>
+### Computer Science Student | Full-Stack Developer | C# / .NET Desktop Apps | AI-Powered Tools
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Building+Desktop+Apps+with+C%23+%26+.NET;Developing+Modern+Web+Apps+with+React+%26+Node.js;Creating+AI-Powered+Tools+and+Developer+Utilities;Focused+on+Clean+UI%2C+Performance+%26+Real-World+Projects" />
 
 <br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SAADX25&style=for-the-badge&color=2F81F7)
+[![GitHub](https://img.shields.io/badge/GitHub-SAADX25-181717?style=for-the-badge&logo=github)](https://github.com/SAADX25)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haddad.hgcr@gmail.com)
 
 </div>
 
@@ -12,38 +18,60 @@
 
 ## 👨‍💻 About Me
 
-Hi 👋 My name is Saad, i am a computer science student from Jordan 🇯🇴.
+Hi 👋, I'm **Saad**, a Computer Science student from Jordan 🇯🇴.
 
-As a developer, I am versed in high-performance desktop applications, real-time web systems and AI-oriented software solutions.
+I build practical software projects focused on desktop applications, web systems, automation tools, and AI-powered utilities.  
+My work combines **C#/.NET desktop development**, **modern web technologies**, and **AI integrations** to create tools that are clean, useful, and ready for real users.
 
-💻 Desktop Dev | C# (WPF) - Electron, TypeScript
+- 💻 Desktop Development: C#, .NET, WPF, Electron
+- 🌐 Web Development: React, Vite, Node.js, TypeScript
+- 🤖 AI Integrations: Gemini API and smart tool workflows
+- 🛠️ Focus: Clean UI, useful features, real-world problem solving
+- 🚀 Mindset: Learning by building and improving every project
 
-⚡ Web Dev: Node. js, React/Vite
-
-🤖 AI Integrations: Gemini API & Smart Tools
-
-🏆 Mindset: Preferences are for challenges and competitive atmospheres
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🎨 Frontend & UI
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
 
-### ⚙️ Tools & Real-Time
+### ⚙️ Tools & AI
+
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
+
+---
+
+## 🚀 What I Build
+
+- Desktop tools for Windows using C#, .NET, and WPF
+- Modern web applications using React, Vite, Node.js, and TypeScript
+- AI-powered utilities using Gemini API and smart automation workflows
+- Clean user interfaces focused on usability and real-world value
+
+---
+
+<div align="center">
+
+### Building real projects, improving every day, and turning ideas into useful software.
+
+</div>
 
 ---
 
