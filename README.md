@@ -85,3 +85,12 @@ My focus is on creating clean, useful, and real-world applications with a strong
   <img src="https://github-readme-stats-iota-seven-40.vercel.app/api/top-langs/?username=SAADX25&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" />
 </div>
 ---
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/SAADX25/SAADX25/output/github-contribution-grid-snake-dark.svg)
+
+</div>
