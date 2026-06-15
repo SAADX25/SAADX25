@@ -91,6 +91,6 @@ My focus is on creating clean, useful, and real-world applications with a strong
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/SAADX25/SAADX25/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/SAADX25/workflows/output/github-contribution-grid-snake-dark.svg)
 
 </div>
