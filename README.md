@@ -10,7 +10,7 @@
 
 ---
 
-<h1 align="center">👨‍💻 Saad Haddad</h1>
+<h1 align="center">👨‍💻 About me</h1>
 
 <h3 align="center">Computer Science Student from Jordan 🇯🇴</h3>
 
@@ -19,10 +19,11 @@
 </p>
 
 ```diff
-+ SYSTEM STATUS: ONLINE
-+ USER: SAAD HADDAD
-+ MODE: BUILDING REAL PROJECTS
-+ LOCATION: JORDAN 🇯🇴
+ **Desktop Development:** C#, .NET, WPF, Electron
+ **Web Development:** React, Vite, Node.js, TypeScript
+ **AI Tools:** Gemini API and smart automation workflows
+ **UI Focus:** Clean layouts, modern design, and usability
+ **Goal:** Keep learning by building real projects
 ```
 
 ---
