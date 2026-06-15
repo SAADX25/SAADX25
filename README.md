@@ -10,20 +10,27 @@
 
 ---
 
-## 👨‍💻 About Me
+<h1 align="center">
+  <span style="color:#00BFFF;">👨‍💻 Saad Haddad</span>
+</h1>
 
-Hi 👋, I'm **Saad Haddad**, a Computer Science student from Jordan 🇯🇴.
+<h3 align="center">
+  Computer Science Student from Jordan 🇯🇴
+</h3>
 
-I enjoy building practical software projects that combine **desktop applications**, **modern web development**, and **AI-powered tools**.  
-My focus is on creating clean, useful, and real-world applications with a strong attention to UI, performance, and user experience.
-
-💻 **Desktop Development:** C#, .NET, WPF, Electron
-🌐 **Web Development:** React, Vite, Node.js, TypeScript
-🤖 **AI Tools:** Gemini API and smart automation workflows
-🎨 **UI Focus:** Clean layouts, modern design, and usability
-🚀 **Goal:** Keep learning by building real projects
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Desktop+Developer;Web+Developer;AI+Tools+Builder;Clean+UI+%26+Real-World+Projects" />
+</p>
 
 ---
+
+
+> SYSTEM STATUS: ONLINE
+> USER: SAAD HADDAD
+> MODE: BUILDING REAL PROJECTS
+> LOCATION: JORDAN 🇯🇴
+
+
 
 ## 🛠️ Tech Stack
 
