@@ -18,15 +18,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Desktop+Developer;Web+Developer;AI+Tools+Builder;Clean+UI+%26+Real-World+Projects" alt="Typing SVG" />
 </p>
 
-<div align="center">
-
-🔹 <b>Desktop Development:</b> C#, .NET, WPF, Electron  
-🔹 <b>Web Development:</b> React, Vite, Node.js, TypeScript  
-🔹 <b>AI Tools:</b> Gemini API and smart automation workflows  
-🔹 <b>UI Focus:</b> Clean layouts, modern design, and usability  
-🔹 <b>Goal:</b> Keep learning by building real projects  
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Desktop%20Development-C%23%20%7C%20.NET%20%7C%20WPF%20%7C%20Electron-0ea5e9?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Web%20Development-React%20%7C%20Vite%20%7C%20Node.js%20%7C%20TypeScript-0284c7?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/AI%20Tools-Gemini%20API%20%26%20Automation-0369a1?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/UI%20Focus-Clean%20Layouts%20%7C%20Modern%20Design%20%7C%20Usability-0891b2?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Goal-Keep%20Learning%20by%20Building%20Real%20Projects-0ea5e9?style=for-the-badge" />
+</p>
 
 ---
 
