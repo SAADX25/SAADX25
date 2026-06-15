@@ -1,16 +1,24 @@
 <div align="center">
 
-# Saad Haddad
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1e3a8a,100:38bdf8&height=230&section=header&text=Saad%20Haddad&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20C%23%20%2F%20.NET%20Desktop%20Apps%20%7C%20AI-Powered%20Tools&descAlignY=55&descAlign=50&descSize=16" />
 
-### Computer Science Student | Full-Stack Developer | C# / .NET Desktop Apps | AI-Powered Tools
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Building+Desktop+Apps+with+C%23+%26+.NET;Developing+Modern+Web+Apps+with+React+%26+Node.js;Creating+AI-Powered+Tools+and+Developer+Utilities;Focused+on+Clean+UI%2C+Performance+%26+Real-World+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=850&lines=Building+modern+desktop+apps+with+C%23+and+.NET;Developing+clean+web+apps+with+React+and+Node.js;Creating+AI-powered+tools+and+developer+utilities;Focused+on+clean+UI%2C+performance%2C+and+real-world+projects;Computer+Science+Student+from+Jordan+%F0%9F%87%AF%F0%9F%87%B4" alt="Typing SVG" />
 
-<br><br>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SAADX25&style=for-the-badge&color=2F81F7)
-[![GitHub](https://img.shields.io/badge/GitHub-SAADX25-181717?style=for-the-badge&logo=github)](https://github.com/SAADX25)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haddad.hgcr@gmail.com)
+<a href="https://github.com/SAADX25">
+  <img src="https://img.shields.io/badge/GitHub-SAADX25-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:haddad.hgcr@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-2563eb?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=SAADX25&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:1e40af&height=2&section=footer" />
 
 </div>
 
@@ -18,16 +26,16 @@
 
 ## 👨‍💻 About Me
 
-Hi 👋, I'm **Saad**, a Computer Science student from Jordan 🇯🇴.
+Hi 👋, I'm **Saad Haddad**, a Computer Science student from Jordan 🇯🇴.
 
-I build practical software projects focused on desktop applications, web systems, automation tools, and AI-powered utilities.  
-My work combines **C#/.NET desktop development**, **modern web technologies**, and **AI integrations** to create tools that are clean, useful, and ready for real users.
+I enjoy building practical software projects that combine **desktop applications**, **modern web development**, and **AI-powered tools**.
+My focus is on creating clean, useful, and real-world applications with a strong attention to UI, performance, and user experience.
 
-- 💻 Desktop Development: C#, .NET, WPF, Electron
-- 🌐 Web Development: React, Vite, Node.js, TypeScript
-- 🤖 AI Integrations: Gemini API and smart tool workflows
-- 🛠️ Focus: Clean UI, useful features, real-world problem solving
-- 🚀 Mindset: Learning by building and improving every project
+* 💻 Desktop Development: C#, .NET, WPF, Electron
+* 🌐 Web Development: React, Vite, Node.js, TypeScript
+* 🤖 AI Tools: Gemini API and smart automation workflows
+* 🎨 UI Focus: Clean layouts, modern design, and usability
+* 🚀 Goal: Keep learning by building real projects
 
 ---
 
@@ -35,35 +43,27 @@ My work combines **C#/.NET desktop development**, **modern web technologies**, a
 
 ### 💻 Languages & Frameworks
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1e40af?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-2563eb?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0ea5e9?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-16a34a?style=for-the-badge\&logo=node.js\&logoColor=white)
 
 ### 🎨 Frontend & UI
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge\&logo=react\&logoColor=38bdf8)
+![Vite](https://img.shields.io/badge/Vite-1e3a8a?style=for-the-badge\&logo=vite\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2563eb?style=for-the-badge\&logo=css3\&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-1d4ed8?style=for-the-badge\&logo=windows\&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-0f172a?style=for-the-badge\&logo=electron\&logoColor=38bdf8)
 
 ### ⚙️ Tools & AI
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
-
----
-
-## 🚀 What I Build
-
-- Desktop tools for Windows using C#, .NET, and WPF
-- Modern web applications using React, Vite, Node.js, and TypeScript
-- AI-powered utilities using Gemini API and smart automation workflows
-- Clean user interfaces focused on usability and real-world value
+![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge\&logo=github\&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-0f172a?style=for-the-badge\&logo=socket.io\&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-2563eb?style=for-the-badge\&logo=googlebard\&logoColor=white)
 
 ---
 
@@ -72,6 +72,7 @@ My work combines **C#/.NET desktop development**, **modern web technologies**, a
 ### Building real projects, improving every day, and turning ideas into useful software.
 
 </div>
+
 
 ---
 
