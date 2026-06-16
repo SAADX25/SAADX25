@@ -12,25 +12,58 @@
 
 <h1 align="center">🧑‍💻 About Me</h1>
 
-<h3 align="center">Computer Science Student from Jordan 🇯🇴</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Desktop+Developer;Web+Developer;AI+Tools+Builder;Clean+UI+%26+Real-World+Projects" alt="Typing SVG" />
+<h3>Computer Science Student from Jordan 🇯🇴</h3>
+
+<p>
+  I build practical desktop and web applications with a focus on clean UI, useful tools, automation, and real-world software ideas.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Desktop%20Development-C%23%20%7C%20.NET%20%7C%20WPF%20%7C%20Electron-0ea5e9?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/Web%20Development-React%20%7C%20Vite%20%7C%20Node.js%20%7C%20TypeScript-0284c7?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/AI%20Tools-Gemini%20API%20%26%20Automation-0369a1?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/UI%20Focus-Clean%20Layouts%20%7C%20Modern%20Design%20%7C%20Usability-0891b2?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/Goal-Keep%20Learning%20by%20Building%20Real%20Projects-0ea5e9?style=for-the-badge" />
-</p>
+<br/>
 
----
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🖥️ Desktop Development</h3>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-1e40af?style=for-the-badge&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-2563eb?style=for-the-badge&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/WPF-0ea5e9?style=for-the-badge&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/Electron-0891b2?style=for-the-badge&logo=electron&logoColor=white" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🌐 Web Development</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-0284c7?style=for-the-badge&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-7c3aed?style=for-the-badge&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-16a34a?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-2563eb?style=for-the-badge&logo=typescript&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🤖 AI Tools</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Gemini%20API-2563eb?style=for-the-badge&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/Automation-0369a1?style=for-the-badge&logo=googlecloud&logoColor=white" />
+      </p>
+    </td>
+    <td align="center">
+      <h3>🎨 UI / UX Focus</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Clean%20Layouts-0891b2?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Modern%20Design-0ea5e9?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+
 
 ## 🛠️ Tech Stack
 
