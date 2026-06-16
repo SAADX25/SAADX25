@@ -10,54 +10,28 @@
 
 ---
 
-<!-- ABOUT ME SECTION -->
+<h1 align="center">🧑‍💻 About Me</h1>
 
-<div align="center">
+<h3 align="center">Computer Science Student from Jordan 🇯🇴</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,40:0f172a,100:0284c7&height=2&section=header" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Desktop+Developer;Web+Developer;AI+Tools+Builder;Clean+UI+%26+Real-World+Projects" alt="Typing SVG" />
+</p>
 
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
-  About Me
-</h1>
-
-<h3>
-  Computer Science Student from Jordan 🇯🇴
-</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+Tools+Builder;Desktop+%26+Web+Developer;C%23+%7C+.NET+%7C+React+%7C+Node.js;Building+Real-World+Projects;Clean+UI+%26+Automation+Focused" />
-
-<br/><br/>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/Desktop%20Apps-C%23%20%7C%20.NET%20%7C%20WPF%20%7C%20Electron-0ea5e9?style=for-the-badge&logo=windows&logoColor=white" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/Web%20Apps-React%20%7C%20Vite%20%7C%20Node.js%20%7C%20TypeScript-0284c7?style=for-the-badge&logo=react&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AI%20Tools-Gemini%20API%20%7C%20Automation%20%7C%20Smart%20Apps-0369a1?style=for-the-badge&logo=google-gemini&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/UI%20Focus-Clean%20Layouts%20%7C%20Modern%20Design%20%7C%20UX-0891b2?style=for-the-badge&logo=figma&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-```txt
-> SYSTEM STATUS: ONLINE
-> USER: SAADX25
-> ROLE: Computer Science Student
-> FOCUS: AI Tools | Desktop Apps | Web Apps
-> GOAL: Keep learning by building real projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Desktop%20Development-C%23%20%7C%20.NET%20%7C%20WPF%20%7C%20Electron-0ea5e9?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Web%20Development-React%20%7C%20Vite%20%7C%20Node.js%20%7C%20TypeScript-0284c7?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/AI%20Tools-Gemini%20API%20%26%20Automation-0369a1?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/UI%20Focus-Clean%20Layouts%20%7C%20Modern%20Design%20%7C%20Usability-0891b2?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Goal-Keep%20Learning%20by%20Building%20Real%20Projects-0ea5e9?style=for-the-badge" />
+</p>
 
 ---
+بدي كود تصمي افضل من هاذا احترافي مميز في حسابي github ايش افضل اشي ؟
 
 ## 🛠️ Tech Stack
 
